@@ -126,7 +126,7 @@ with open(file_to_load) as election_data:
           candadite_options.append(candidate_name) # add name to dictionary
           candidate_votes[candidate_name] = 0 #Begin tracking that candidate's vote count.
         candidate_votes[candidate_name] += 1 # Add a vote to that candidate's count.
-        #print(candidate_votes)
+        #print(candidate_votes)    
 # Determine the percentage of votes for each candidate by looping through the counts.
 # 1. Iterate through the candidate list.
 for candidate_name in candadite_options:
