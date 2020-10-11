@@ -10,7 +10,7 @@ Denver: 82.782227% (306055)
 Arapahoe: 6.708213% (24801)
 
 -------------------------------------------------------
-The county with the highest turnout is: Arapahoe.
+The county with the highest turnout is: Denver.
 ----------------------------------------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
