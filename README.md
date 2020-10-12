@@ -18,4 +18,5 @@ We have been asked to read a csv file with election data from 3 counties in Colo
 ### Total number of votes cast: 369,711
 
 ### Summary output to file:
+![Summary_Results](https://github.com/austink24/Election_Analysis2/blob/3a70acf2c7595fe902e268364418df0627ad0cc2/Resources/Election_Summary.png)
 
