@@ -5,18 +5,20 @@ We have been asked to read a csv file with election data from 3 counties in Colo
 
 
 ## Election-Audit Results:
-### Our voting counties are:
+#### Our voting counties are:
 - Denver
 - Arapahoe
 - Jefferson
 
-### The Candidates who are on the ballot:
+#### The Candidates who are on the ballot:
 * Charles Casper Stockham
 * Diana DeGette
 * Raymon Anthony Doane
 
-### Total number of votes cast: 369,711
+#### Total number of votes cast: 369,711
 
-### Summary output to file:
+#### Election Summary output to file:
 ![Summary_Results](https://github.com/austink24/Election_Analysis2/blob/3a70acf2c7595fe902e268364418df0627ad0cc2/Resources/Election_Summary.png)
 
+## Election Audit Summary:
+The way the code is written we are able to easily adapt for any election, as long as the new csv file follows some basic formatting of just keeping the data in the correect column for example candidates and counties in columns 2 and 3. If they weren't consitently in the correct columns we could easily just and the rows we loop through for the data. 
