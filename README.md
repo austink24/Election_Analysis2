@@ -21,4 +21,4 @@ We have been asked to read a csv file with election data from 3 counties in Colo
 ![Summary_Results](https://github.com/austink24/Election_Analysis2/blob/3a70acf2c7595fe902e268364418df0627ad0cc2/Resources/Election_Summary.png)
 
 ## Election Audit Summary:
-The way the code is written we are able to easily adapt for any election, as long as the new csv file follows some basic formatting of just keeping the data in the correect column for example candidates and counties in columns 2 and 3. If they weren't consitently in the correct columns we could easily just and the rows we loop through for the data. 
+The way the code is written we are able to easily adapt for any election, as long as the new csv file follows some basic formatting of just keeping the data in the correect columns, for example candidates and counties in columns 2 and 3. If they weren't consitently in the correct columns we could easily just and the rows we loop through for the data. 
